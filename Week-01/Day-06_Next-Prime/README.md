@@ -17,4 +17,4 @@ NextPrime(11) ➞ 11
 
 ### Notes
 
-- N/A
+Usei [Loop](https://doc.rust-lang.org/rust-by-example/flow_control/loop.html) e [While](https://doc.rust-lang.org/rust-by-example/flow_control/while.html). Apanhei um pouco pra fazer aestrutyura funcionar mas nada muito longe do esperado. Rust eh bem legal.
